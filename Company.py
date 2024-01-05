@@ -14,3 +14,4 @@ class Employee(Company):
     print("Working in project:", self._project)
 c= Employee("Jessa")
 c.show()
+print("Ending program")
