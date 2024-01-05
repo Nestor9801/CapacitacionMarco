@@ -13,4 +13,4 @@ class Employee(Company):
 
 c= Employee("Jessa")
 c.show()
-print("Ending program")
+print("Ending")
